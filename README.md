@@ -6,7 +6,7 @@
 
 ### Java (basic):-
 
-![](<https://github.com/Ansh00/My_certification/blob/master/JAVA(Basic).png>)
+![](<https://github.com/Ansh00/My_certification/blob/main/JAVA(Basic).png>)
 
 ### Python (Basic):-
 
