@@ -10,20 +10,20 @@
 
 ### Python (Basic):-
 
-![](<https://github.com/Ansh00/My_certification/blob/master/PYTHON(Basic).png>)
+![](<https://github.com/Ansh00/My_certification/blob/main/PYTHON(Basic).png>)
 
 ### Problem Solving (Basic):-
 
-![](<https://github.com/Ansh00/My_certification/blob/master/Problem Solving(Basic).png>)
+![](<https://github.com/Ansh00/My_certification/blob/main/Problem Solving(Basic).png>)
 
 ### React (Basic):-
 
-![](<https://github.com/Ansh00/My_certification/blob/master/React (Basic).png>)
+![](<https://github.com/Ansh00/My_certification/blob/main/React (Basic).png>)
 
 ### JavaScript (Intermediate):-
 
-![](<https://github.com/Ansh00/My_certification/blob/master/JavaScript (Intermediate).png>)
+![](<https://github.com/Ansh00/My_certification/blob/main/JavaScript (Intermediate).png>)
 
 ### SQL (Basic):-
 
-![](<https://github.com/Ansh00/My_certification/blob/master/SQL(Basic).png>)
+![](<https://github.com/Ansh00/My_certification/blob/main/SQL(Basic).png>)
