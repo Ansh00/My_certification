@@ -1,6 +1,6 @@
 # My_certification
 
-![visitors](https://visitor-badge.laobi.icu/badge?page_id=Ansh00/Hackerrank_certification)
+![visitors](https://visitor-badge.laobi.icu/badge?page_id=Ansh00/My_certification)
 
 ## Hackerrank Certification:-
 
